@@ -6,7 +6,7 @@ const CandleData = [
     description:
       "Notas dulces y sutiles de durazno maduro con un toque de vainilla y almendra.",
     price: 15.99,
-    image: `https://ibb.co/NnHccMwR`, // Imagen de marcador de posición
+    image: `https://i.ibb.co/vvK00S29/eternum.png`, // Imagen de marcador de posición
   },
   {
     id: 2,
@@ -60,3 +60,13 @@ export default CandleData;
 // https://ibb.co/0jqBnLZS
 // https://ibb.co/fVGyT2Hp
 // https://ibb.co/3YNzfT7Y
+
+// [url=https://imgbb.com/][img]https://i.ibb.co/vvK00S29/eternum.png[/img][/url]
+// [url=https://ibb.co/F4hs4KbP][img]https://i.ibb.co/v4cs4Hxt/fondov1.jpg[/img][/url]
+// [url=https://ibb.co/Kc3hqZ9f][img]https://i.ibb.co/NgHCjhLJ/fondov2.jpg[/img][/url]
+// [url=https://imgbb.com/][img]https://i.ibb.co/9kgt0X6T/logo-aura.jpg[/img][/url]
+// [url=https://imgbb.com/][img]https://i.ibb.co/nNmHdhD9/luz-Deamor.png[/img][/url]
+// [url=https://imgbb.com/][img]https://i.ibb.co/67TVtq6D/rojavela.png[/img][/url]
+// [url=https://imgbb.com/][img]https://i.ibb.co/99nwp02L/sunsetvela.png[/img][/url]
+// [url=https://imgbb.com/][img]https://i.ibb.co/xK8BrD6j/teddyvela.png[/img][/url]
+// [url=https://imgbb.com/][img]https://i.ibb.co/k6813Gx6/vela3.png[/img][/url]
