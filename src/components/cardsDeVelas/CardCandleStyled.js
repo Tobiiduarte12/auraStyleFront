@@ -8,8 +8,7 @@ export const StyledCard = styled.div`
   display: flex;
   flex-direction: column;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  width: 320px;
-  margin: 16px;
+  width: 100%;
 
   &:hover {
     transform: translateY(-5px);
