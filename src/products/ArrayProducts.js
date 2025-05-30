@@ -6,7 +6,7 @@ const CandleData = [
     description:
       "Notas dulces y sutiles de durazno maduro con un toque de vainilla y almendra.",
     price: 15.99,
-    image: "../../public/imgs/eternum.PNG", // Imagen de marcador de posición
+    image: `https://ibb.co/NnHccMwR`, // Imagen de marcador de posición
   },
   {
     id: 2,
@@ -50,3 +50,13 @@ const CandleData = [
   },
 ];
 export default CandleData;
+
+// https://ibb.co/NnHccMwR
+// https://ibb.co/F4hs4KbP
+// https://ibb.co/Kc3hqZ9f
+// https://ibb.co/cS3L950F
+// https://ibb.co/7dCwM7GP
+// https://ibb.co/NdJQNGwW
+// https://ibb.co/0jqBnLZS
+// https://ibb.co/fVGyT2Hp
+// https://ibb.co/3YNzfT7Y
