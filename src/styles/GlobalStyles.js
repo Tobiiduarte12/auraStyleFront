@@ -9,7 +9,7 @@ export const GlobalStyles = createGlobalStyle`
   body {
     font-family: "Roboto", sans-serif;
   /* background-color:rgb(243, 186, 180); Fondo rosa claro (Misty Rose) */
-  background-image: url("../../public/imgs/fondov2.jpg");
+  background-image: url("https://i.ibb.co/NgHCjhLJ/fondov2.jpg"); /* Fondo de imagen */
   /* background-size: cover; */
   background-position: center;
   min-height: 100vh;
